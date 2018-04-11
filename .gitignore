@@ -32,3 +32,6 @@ QDriverStation.pro.user
 ui_Downloader.h
 
 *.DS_Store
+
+.project
+.settings/

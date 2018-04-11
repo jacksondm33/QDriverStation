@@ -1,0 +1,3 @@
+[submodule "lib/LibDS"]
+	path = lib/LibDS
+	url = git@github.com:jacksondm33/LibDS.git
