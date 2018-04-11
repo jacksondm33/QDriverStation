@@ -1,3 +1,6 @@
 [submodule "lib/LibDS"]
 	path = lib/LibDS
 	url = git@github.com:jacksondm33/LibDS.git
+[submodule "lib/QJoysticks"]
+	path = lib/QJoysticks
+	url = https://github.com/alex-spataru/QJoysticks.git
